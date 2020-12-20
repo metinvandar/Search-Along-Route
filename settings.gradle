@@ -1,0 +1,3 @@
+include ':SearchAlongRoute'
+include ':app'
+rootProject.name = "SearchAlongRouteExample"

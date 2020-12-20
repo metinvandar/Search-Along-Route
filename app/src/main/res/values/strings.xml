@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SearchAlongRouteExample</string>
+    <string name="poi_address">Address</string>
+    <string name="poi_drug_store">Drug Store</string>
+    <string name="poi_type_bank">Bank</string>
+    <string name="poi_type_hospital">Hospital</string>
+    <string name="poi_type_gas_station">Gas Station</string>
+    <string name="poi_type">Choose POI Type</string>
+    <string name="poi_cafe">Cafe</string>
+    <string name="poi_restaurant">Restaurant</string>
+    <string name="poi_shopping_mall">Shopping Mall</string>
+</resources>
